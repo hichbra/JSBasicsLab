@@ -1,5 +1,6 @@
 
 export const isNumberEven = (i) => {
+  var test;
   // i will be an integer.
   // Return true if it's even, and false if it isn't.
 };
